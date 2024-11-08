@@ -1,5 +1,5 @@
 2.	Escriba un algoritmo que visualice una clasificación de 50 personas según edad y sexo. Deberá mostrar los siguientes resultados:
-3.	
+
 - a.	Cantidad de personas mayores de edad (18 años o más).
 - b.	Cantidad de personas menores de edad.
 - c.	Cantidad de personas masculinas mayores de edad.
