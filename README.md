@@ -5,7 +5,7 @@
 - c.	Cantidad de personas masculinas mayores de edad.
 - d.	Cantidad de personas femeninas menores de edad.
 - e.	Porcentaje que representan las personas mayores de edad respecto al total de personas.
-- vf.	Porcentaje que representan las mujeres respecto al total de personas.
+- f.	Porcentaje que representan las mujeres respecto al total de personas.
 
 Utilice la instrucción LEER PERSONAS al inicio del programa para cargar los datos de las 50 personas en un variable, PERSONAS, que actúa como un vector de 50 posiciones.
 
